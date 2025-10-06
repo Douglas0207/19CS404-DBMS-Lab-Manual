@@ -113,108 +113,75 @@ CREATE TABLE Table_Name (
 
 
 **Question 2**
----
--- Paste Question 2 here
 
-```sql
--- Paste your SQL code below for Question 2
-```
+<img width="1146" height="698" alt="Screenshot 2025-10-06 at 1 27 24 PM" src="https://github.com/user-attachments/assets/7c912594-f03f-430a-ac0d-f2506450314b" />
 
 **Output:**
 
-![Output2](output.png)
+<img width="1149" height="246" alt="Screenshot 2025-10-06 at 1 32 17 PM" src="https://github.com/user-attachments/assets/bfd4536b-6020-4fc1-a5b7-60f3488e9c18" />
 
 **Question 3**
----
--- Paste Question 3 here
 
-```sql
--- Paste your SQL code below for Question 3
-```
+<img width="1149" height="780" alt="Screenshot 2025-10-06 at 1 27 34 PM" src="https://github.com/user-attachments/assets/1b035609-eb42-4245-96d2-356f7a356035" />
 
 **Output:**
 
-![Output3](output.png)
+<img width="1152" height="271" alt="Screenshot 2025-10-06 at 1 33 44 PM" src="https://github.com/user-attachments/assets/7a0fb0ed-6381-4881-9f6a-e89c7766d190" />
 
 **Question 4**
----
--- Paste Question 4 here
 
-```sql
--- Paste your SQL code below for Question 4
-```
+<img width="1148" height="693" alt="Screenshot 2025-10-06 at 1 27 42 PM" src="https://github.com/user-attachments/assets/b755fe58-b4f2-4621-bd1a-7e55fb55714c" />
 
 **Output:**
 
-![Output4](output.png)
+<img width="1150" height="242" alt="Screenshot 2025-10-06 at 1 37 07 PM" src="https://github.com/user-attachments/assets/c809f69e-3b9f-409d-abb3-fc7e4aa6853e" />
 
 **Question 5**
----
--- Paste Question 5 here
 
-```sql
--- Paste your SQL code below for Question 5
-```
+<img width="1151" height="692" alt="Screenshot 2025-10-06 at 1 27 51 PM" src="https://github.com/user-attachments/assets/b40fb970-23ce-4467-9552-3e517d3d7def" />
 
 **Output:**
 
-![Output5](output.png)
+<img width="1150" height="313" alt="Screenshot 2025-10-06 at 1 37 55 PM" src="https://github.com/user-attachments/assets/e49f1e7a-d7d0-4085-8779-37b45766643d" />
 
 **Question 6**
----
--- Paste Question 6 here
 
-```sql
--- Paste your SQL code below for Question 6
-```
+<img width="1152" height="703" alt="Screenshot 2025-10-06 at 1 27 58 PM" src="https://github.com/user-attachments/assets/89360053-7cd2-4f9d-bc31-ff09cd95f13b" />
 
 **Output:**
 
-![Output6](output.png)
+<img width="1151" height="270" alt="Screenshot 2025-10-06 at 1 40 26 PM" src="https://github.com/user-attachments/assets/2467781c-92e4-435b-838b-7a90a416f24c" />
 
 **Question 7**
----
--- Paste Question 7 here
 
-```sql
--- Paste your SQL code below for Question 7
-```
+<img width="1155" height="722" alt="Screenshot 2025-10-06 at 1 28 05 PM" src="https://github.com/user-attachments/assets/eed0212a-33d3-4aef-b28d-b3edb946c434" />
 
 **Output:**
 
 ![Output7](output.png)
 
 **Question 8**
----
--- Paste Question 8 here
 
-```sql
--- Paste your SQL code below for Question 8
-```
+<img width="1157" height="679" alt="Screenshot 2025-10-06 at 1 28 13 PM" src="https://github.com/user-attachments/assets/fb97a3ea-8fcd-405b-84a7-77c631ce6823" />
+
 
 **Output:**
 
 ![Output8](output.png)
 
 **Question 9**
----
--- Paste Question 9 here
 
-```sql
--- Paste your SQL code below for Question 9
-```
+<img width="1152" height="621" alt="Screenshot 2025-10-06 at 1 28 20 PM" src="https://github.com/user-attachments/assets/02427825-69b0-466c-b2ce-ff56d89c41dd" />
+
 
 **Output:**
 
 ![Output9](output.png)
 
 **Question 10**
----
--- Paste Question 10 here
 
-```sql
--- Paste your SQL code below for Question 10
-```
+<img width="1151" height="655" alt="Screenshot 2025-10-06 at 1 28 26 PM" src="https://github.com/user-attachments/assets/7dd4ccd6-7690-4809-8be1-ae2ada42d8c6" />
+
 
 **Output:**
 
