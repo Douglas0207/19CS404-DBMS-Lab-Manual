@@ -158,35 +158,31 @@ CREATE TABLE Table_Name (
 
 **Output:**
 
-![Output7](output.png)
+<img width="1150" height="306" alt="Screenshot 2025-10-06 at 1 41 44 PM" src="https://github.com/user-attachments/assets/62e4b064-1d5b-4abf-bdc2-3bdddbbfb0d3" />
 
 **Question 8**
 
 <img width="1157" height="679" alt="Screenshot 2025-10-06 at 1 28 13 PM" src="https://github.com/user-attachments/assets/fb97a3ea-8fcd-405b-84a7-77c631ce6823" />
 
-
 **Output:**
 
-![Output8](output.png)
+<img width="1151" height="235" alt="Screenshot 2025-10-06 at 1 42 07 PM" src="https://github.com/user-attachments/assets/06a5e6c2-0f14-49ac-89de-95ee30d45bf3" />
 
 **Question 9**
 
 <img width="1152" height="621" alt="Screenshot 2025-10-06 at 1 28 20 PM" src="https://github.com/user-attachments/assets/02427825-69b0-466c-b2ce-ff56d89c41dd" />
 
-
 **Output:**
 
-![Output9](output.png)
+<img width="1150" height="235" alt="Screenshot 2025-10-06 at 1 42 25 PM" src="https://github.com/user-attachments/assets/1acbf978-7bdf-451b-a4fb-ed14540ea5de" />
 
 **Question 10**
 
 <img width="1151" height="655" alt="Screenshot 2025-10-06 at 1 28 26 PM" src="https://github.com/user-attachments/assets/7dd4ccd6-7690-4809-8be1-ae2ada42d8c6" />
 
-
 **Output:**
 
-![Output10](output.png)
-
+<img width="1154" height="296" alt="Screenshot 2025-10-06 at 1 43 15 PM" src="https://github.com/user-attachments/assets/74835bc5-b116-4f07-9170-028907176c0e" />
 
 ## RESULT
 Thus, the SQL queries to implement different types of constraints and DDL commands have been executed successfully.
