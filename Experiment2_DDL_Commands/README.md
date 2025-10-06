@@ -104,16 +104,13 @@ CREATE TABLE Table_Name (
 ```
 
 **Question 1**
---
--- Paste Question 1 here
 
-```sql
--- Paste your SQL code below for Question 1
-```
+<img width="1151" height="702" alt="Screenshot 2025-10-06 at 1 27 14 PM" src="https://github.com/user-attachments/assets/5089cccc-557f-4fdf-a260-fbc29b7df2e0" />
 
 **Output:**
 
-![Output1](output.png)
+<img width="1150" height="268" alt="Screenshot 2025-10-06 at 1 29 55 PM" src="https://github.com/user-attachments/assets/021dd63b-7b52-4100-9dc7-3666dfa4ba08" />
+
 
 **Question 2**
 ---
